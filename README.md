@@ -1,2 +1,2 @@
 # TabM
-TabM deep learning for Tabular data.
+TabM = deep learning for Tabular data.
